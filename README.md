@@ -2,8 +2,6 @@
 
 本项目通过 Python 实现了蚁群优化 (Ant Colony Optimization, ACO) 算法，用于解决经典的旅行商问题 (Traveling Salesman Problem, TSP)。
 
-代码 `aco_tsp_solver.py` 结构清晰，并附有详细的中文注释，旨在帮助用户（特别是教学场景下的学生）理解算法的每一个核心步骤。
-
 ## 文件结构
 
 ```
